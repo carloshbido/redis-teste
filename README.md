@@ -1,6 +1,6 @@
 # Projeto básico para estudo do Redis
 
-Para clonar o repositório na sua máquina, execute os comandos abaixo na pasta selecionada:
+Após clonar o repositório na sua máquina, execute os comandos abaixo na pasta selecionada:
 
 ```
 npm init
@@ -14,3 +14,5 @@ Após inciar o redis localmente na sua máquina, execute o comando na pasta do s
 ```
 npm start
 ```
+
+Good Hacking!
